@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+				<title>100% FREE VPN SERVICES</title>
+		        <meta name="csrf-token" content="jjHZtCjL3Vl68WITlbaRrhBmDzhwIvqCJN2FFWZ9">
+		<meta name="description" content="FREEVPN724 setup FREE VPN connections for anonymous, unblocks websites, secure internet connection and hides your ip.">
+		<meta name="keywords" content="Fast VPN, free vpn, Unlimited VPN, 100% free vpn">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<!-- Icons -->
+		<link rel="apple-touch-icon-precomposed" href="https://freevpn724.com/img/icons/apple-touch-icon.png">
+		<link rel="icon" href="https://freevpn724.com/img/icons/favicon.ico">
+		<!-- Stylesheets -->
+		<link rel="stylesheet" href="https://freevpn724.com/css/fontawesome.min.css">
+		<link rel="stylesheet" href="https://freevpn724.com/css/main.min.css">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155661800-1"></script>
+		<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'UA-155661800-1');
+		</script>
+        <script data-ad-client="ca-pub-5160491747986217" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+	</head>
+	<body class="footer-dark">
+		<!-- Header -->
+		<header id="header" class="header-dynamic header-shadow-scroll">
+			<div class="container">
+				<a class="logo" href="https://freevpn724.com">
+					<img src="https://freevpn724.com/img/logos/header-light.png" alt="">
+				</a>
+				<nav>
+					<ul class="nav-primary">
+
+						<li>
+							<a href="https://freevpn724.com">FreeVPN724</a>
+						</li>
+						<li>
+							<a href="https://freevpn724.com/free-vpn">Free VPN</a>
+						</li>
+						<li>
+							<a href="https://freevpn724.com/download-free-vpn">Download</a>
+						</li>
+						<li>
+							<a href="https://freevpn724.com/how-to-setup-vpn">How To Setup</a>
+						</li>
+						<li>
+							<a href="https://freevpn724.com/features">Features</a>
+						</li>
+						<li>
+							<a href="https://freevpn724.com/privacy">Privacy</a>
+						</li>
+
+
+					</ul>
+
+				</nav>
+			</div>
+		</header>
+
+
+        <section id="content">
+			<!-- Content Row -->
+			<section class="content-row content-row-color content-row-clouds">
+				<div class="container">
+					<header class="content-header content-header-small content-header-uppercase"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+						<h1>
+							100% FREE VPN Services
+						</h1>
+						<p>
+							We offer 100% FREE VPN with ZERO LOG PRIVACY
+						</p>
+					</header>
+				</div>
+			</section>
+			<!-- Content Row -->
+			<section class="content-row">
+				<div class="container">
+					<div class="tab-group tab-group-switch-style">
+						<div class="tab-item" data-title="PPTP VPN">
+							<div class="column-row align-center-bottom">
+								<div class="column-80">
+                  <p>
+                  Free PPTP VPN Account (Easy to setup, no need to download any software, works with all Windows, Mobile and PS3 Devices)<br>
+                  </p>
+                  <ul>
+							       <li><span>USA VPN Server:</span>  <strong>us1.freevpn724.com </strong></li>
+							       <li><span>Netherlands VPN Server:</span> <strong>nl1.freevpn724.com </strong></li>
+							       <li><span>Switzerland VPN Server:</span> <strong>ch1.freevpn724.com </strong></span></li>
+										 <li><span>Singapore VPN Server:</span> <strong>sg1.freevpn724.com </strong></span></li>
+										 <li><span>Czech Republic VPN Server:</span> <strong>cz1.freevpn724.com </strong></span></li>
+							       <li>Username: <strong>freevpn724</strong></li>
+                     <li>Password: <strong>u5tf696</strong></li>
+                     <li><a href="https://freevpn724.com/download/freeVPN724.apk">Download Android App</a></li>
+										 <li><a href="https://freevpn724.com/download/freeVPN.exe">Download Windows App</a></li>
+										 <li><a href="https://freevpn724.com/download/freeVPN724.pkg">Download MacOS App</a></li>
+										 <li><a href="https://freevpn724.com/how-to-setup-vpn">How To Setup VPN</a></li>
+						      </ul>
+
+								</div>
+							</div>
+						</div>
+            <div class="tab-item" data-title="OpenConnect VPN">
+							<div class="column-row align-center-bottom">
+								<div class="column-80">
+                  <p>
+                  Free OpenConnect Account (Requires Download of the free opensource OpenConnect Client, OpenConnect offers the best anonymity and is impossible to block by your government, school or Internet Service Provider.) - You should try all the Servers and see which provides the fastest and most stable speeds.
+                  </p>
+                  <ul>
+										<li><span>USA VPN Server:</span>  <strong>us1.freevpn724.com </strong></li>
+										<li><span>Netherlands VPN Server:</span> <strong>nl1.freevpn724.com </strong></li>
+										<li><span>Switzerland VPN Server:</span> <strong>ch1.freevpn724.com </strong></span></li>
+										<li><span>Singapore VPN Server:</span> <strong>sg1.freevpn724.com </strong></span></li>
+										<li><span>Czech Republic VPN Server:</span> <strong>cz1.freevpn724.com </strong></span></li>
+							       <li>Username: <strong>freevpn724</strong></li>
+                     <li>Password: <strong>u5tf696</strong></li>
+										 <li><a href="https://freevpn724.com/download/freeVPN724.apk">Download Android App</a></li>
+										 <li><a href="https://freevpn724.com/download/freeVPN.exe">Download Windows App</a></li>
+										 <li><a href="https://freevpn724.com/download/freeVPN724.pkg">Download MacOS App</a></li>
+										 <li><a href="https://freevpn724.com/how-to-setup-vpn">How To Setup VPN</a></li>
+						      </ul>
+
+								</div>
+							</div>
+						</div>
+            <div class="tab-item" data-title="OpenVPN">
+							<div class="column-row align-center-bottom">
+								<div class="column-80">
+									<p>
+                  Free OpenVPN Account (Requires Download of the free opensource OpenVPN Client, OpenConnect offers the best anonymity and is impossible to block by your government, school or Internet Service Provider.) - You should try all the Servers and see which provides the fastest and most stable speeds.
+                  </p>
+									<p>
+										You can download OpenVPN certificate bundle here : <a href="https://freevpn724.com/bundles/bundles.zip">Certificate Bundle</a>
+									</p>
+                  <ul>
+										<li><span>USA VPN Server:</span>  <strong>us1.freevpn724.com </strong></li>
+										<li><span>Netherlands VPN Server:</span> <strong>nl1.freevpn724.com </strong></li>
+										<li><span>Switzerland VPN Server:</span> <strong>ch1.freevpn724.com </strong></span></li>
+										<li><span>Singapore VPN Server:</span> <strong>sg1.freevpn724.com </strong></span></li>
+										<li><span>Czech Republic VPN Server:</span> <strong>cz1.freevpn724.com </strong></span></li>
+							            <li>Username: <strong>freevpn724</strong></li>
+                                        <li>Password: <strong>u5tf696</strong></li>
+                                        <li><a href="https://freevpn724.com/download/freeVPN724.apk">Download Android App</a></li>
+										 <li><a href="https://freevpn724.com/download/freeVPN.exe">Download Windows App</a></li>
+										 <li><a href="https://freevpn724.com/download/freeVPN724.pkg">Download MacOS App</a></li>
+										 <li><a href="https://freevpn724.com/how-to-setup-vpn">How To Setup VPN</a></li>
+						      </ul>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Content Row -->
+
+		</section>
+
+<footer id="footer">
+	<section class="footer-primary">
+		<div class="container">
+			<div class="column-row">
+				<div class="column-33">
+					<h4>
+						<b>About US</b>
+					</h4>
+					<p>
+						We offer 100% Free VPN Service over Cloud Servers
+					</p>
+				</div>
+				<div class="column-66">
+					<div class="column-row align-right-top">
+						<div class="column-25">
+							<h5>
+								Connect
+							</h5>
+							<ul class="list-style-icon">
+								<li>
+									<a href="https://twitter.com/freevpn724"><i class="fab fa-twitter"></i>Twitter</a>
+								</li>
+
+							</ul>
+						</div>
+						<div class="column-50">
+
+							<ul>
+								<li style="width:150px;">
+								</li>
+							</ul>
+						</div>
+
+						<div class="column-flex">
+							<h5>
+							</h5>
+							<ul>
+								<li>
+								</li>
+
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="footer-secondary">
+		<div class="container">
+			<p>
+				Copyright 2021 &copy; freeVPN724 Services. All rights reserved.
+
+			</p>
+		</div>
+	</section>
+</footer>
+<!-- Scripts -->
+<script src="https://freevpn724.com/js/jquery.min.js"></script>
+<script src="https://freevpn724.com/js/headroom.min.js"></script>
+<script src="https://freevpn724.com/js/js.cookie.min.js"></script>
+<script src="https://freevpn724.com/js/imagesloaded.min.js"></script>
+<script src="https://freevpn724.com/js/bricks.min.js"></script>
+<script src="https://freevpn724.com/js/main.min.js"></script>
+</body>
+</html>

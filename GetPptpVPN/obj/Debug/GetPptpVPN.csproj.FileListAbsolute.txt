@@ -1,0 +1,6 @@
+D:\Project\GetPptpVPN\GetPptpVPN\bin\Debug\GetPptpVPN.exe.config
+D:\Project\GetPptpVPN\GetPptpVPN\bin\Debug\GetPptpVPN.exe
+D:\Project\GetPptpVPN\GetPptpVPN\bin\Debug\GetPptpVPN.pdb
+D:\Project\GetPptpVPN\GetPptpVPN\obj\Debug\GetPptpVPN.csproj.CoreCompileInputs.cache
+D:\Project\GetPptpVPN\GetPptpVPN\obj\Debug\GetPptpVPN.exe
+D:\Project\GetPptpVPN\GetPptpVPN\obj\Debug\GetPptpVPN.pdb
